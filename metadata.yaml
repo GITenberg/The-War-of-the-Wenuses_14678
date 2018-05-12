@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '5634'
     url: http://www.gutenberg.org/2009/agents/5634
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14678#The-War-of-the-Wenuses
 gutenberg_issued: '2005-01-13'
 gutenberg_type: Text
 identifiers:
